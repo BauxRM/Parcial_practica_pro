@@ -3,7 +3,7 @@ año de nacimiento."""
 
 #Ingreso de datos
 
-#AÑo de nacimiento de la persona
+#Año de nacimiento de la persona
 ano_de_nacimiento = int(input("Ingrese el año de nacimiento: "))
 
 #Año lectivo
