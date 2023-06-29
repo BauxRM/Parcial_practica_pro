@@ -22,7 +22,7 @@ while contador < alumnos:
     else:
         acumulador_de_notas = acumulador_de_notas + nota
 
-promedio_general = acumulador_de_notas / alumnos 
+        promedio_general = acumulador_de_notas / alumnos 
 
 #Muesta en pantalla
 print("El promedio general de la clase es de:", promedio_general)       
