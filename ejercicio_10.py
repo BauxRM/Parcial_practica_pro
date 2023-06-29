@@ -25,5 +25,4 @@ while contador < alumnos:
 promedio_general = acumulador_de_notas / alumnos 
 
 #Muesta en pantalla
-print("El promedio general de la clase es de:", promedio_general)
-        
+print("El promedio general de la clase es de:", promedio_general)       
