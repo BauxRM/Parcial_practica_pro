@@ -10,7 +10,7 @@ while contador < alumnos:
     contador = contador + 1
     
 #Datos ingresados por el usuario
-    nota = float((input("ingrese la nota: ")))
+    nota = float(input("ingrese la nota: "))
 
 #En caso de que la persona se equivoque al escribir la nota
     if nota < 0 :
